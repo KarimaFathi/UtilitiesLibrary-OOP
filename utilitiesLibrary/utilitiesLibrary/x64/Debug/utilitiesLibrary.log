@@ -1,0 +1,27 @@
+﻿  utilitiesLibrary.cpp
+D:\utilitiesLibrary\classString.h(39,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'utilitiesLibrary.cpp')
+  
+D:\utilitiesLibrary\classString.h(44,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'utilitiesLibrary.cpp')
+  
+D:\utilitiesLibrary\classString.h(228,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'utilitiesLibrary.cpp')
+  
+D:\utilitiesLibrary\classString.h(250,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'utilitiesLibrary.cpp')
+  
+D:\utilitiesLibrary\classString.h(272,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'utilitiesLibrary.cpp')
+  
+D:\utilitiesLibrary\classString.h(305,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'utilitiesLibrary.cpp')
+  
+D:\utilitiesLibrary\classString.h(359,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'utilitiesLibrary.cpp')
+  
+D:\utilitiesLibrary\classString.h(362,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'utilitiesLibrary.cpp')
+  
+D:\utilitiesLibrary\clsUtilities.h(38,1): warning C4715: 'clsUtilities::getRandomChar': not all control paths return a value
+  utilitiesLibrary.vcxproj -> D:\utilitiesLibrary\x64\Debug\utilitiesLibrary.exe
