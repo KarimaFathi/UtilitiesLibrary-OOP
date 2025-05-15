@@ -6,9 +6,9 @@
 
 ## Features
 
-✅ Randomization Utilities
-✅ Swap Functions
-✅ Array Operations
-✅ Encryption & Decryption
-✅ Formatting
+- ✅ Randomization Utilities
+- ✅ Swap Functions
+- ✅ Array Operations
+- ✅ Encryption & Decryption
+- ✅ Formatting and more...
 
